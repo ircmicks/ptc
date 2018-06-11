@@ -2,7 +2,7 @@ package demo;
 
 public class Calc{
 	public int add (int i, int j) {
-		return 1+j;
+		return i+j;
 	}
 	public int divide (String no1, String no2) {
 	int i=Integer.parseInt(no1);

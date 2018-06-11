@@ -31,7 +31,7 @@ public class CalcTest {
 	@Test
 	public void testAdd() {
 		int i =c1.add(10, 20);
-		assertTrue("add with 10,20",i==30);
+		assertTrue("add with 10, 20",i==30);
 	}
 
 	@Test
